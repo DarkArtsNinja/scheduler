@@ -16,6 +16,16 @@
 *When the user presses the close button of the error they are returned to the Form or Show view (skipping Status and Confirm).
 *The application makes API requests to load and persist data. We do not lose data after a browser refresh.
 
+## Screenshots
+Creating a new appointment
+![create_new_appointment](./docs/create_new_app.png)
+
+This is how it looks like when deleting the appointment
+![delete_appointment](./docs/create_new_app.png)
+
+And this is how it looks like when there's a new appointment
+![delete_appointment](./docs/new_appointment.png)
+
 ## Technical Description
 *React
 *Webpack, Babel
