@@ -1,6 +1,7 @@
 @import "styles/mixins.scss";
 @import "styles/variables.scss";
 
+//a nested & selects the parent element 
 .day-list {
   &__item {
     @include fade;
